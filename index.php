@@ -8,5 +8,5 @@
  */
 
 require "vendor/autoload.php";
-$Test = new Lyy\Test();
+$Test = new Labacadyy\Test();
 $Test->test();

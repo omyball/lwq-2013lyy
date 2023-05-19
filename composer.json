@@ -8,7 +8,7 @@
     "license": "Apache",
     "autoload": {
         "psr-4": {
-            "Lyy\\": "src/lyy"
+            "Labacadyy\\": "src/labacadyy"
         }
     },
     "authors": [
