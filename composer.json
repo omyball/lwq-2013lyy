@@ -1,0 +1,21 @@
+{
+    "name": "lyy/test",
+    "description": "this is lyy test composer",
+    "type": "1",
+    "require": {
+        "php": ">=7.0"
+    },
+    "license": "Apache",
+    "autoload": {
+        "psr-4": {
+            "Lyy\\": "src/lyy"
+        }
+    },
+    "authors": [
+        {
+            "name": "liaowenqiu",
+            "email": "1282355075@qq.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
